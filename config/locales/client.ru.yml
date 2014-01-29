@@ -1059,6 +1059,8 @@ ru:
     changed_by: 'автором {{author}}'
     categories_list: 'Список категорий'
     filters:
+      with_topics: "%{filter} Темы"
+      with_category: "%{filter} %{category} Сообщения"
       latest:
         title: Последние
         help: 'самые последние темы'
